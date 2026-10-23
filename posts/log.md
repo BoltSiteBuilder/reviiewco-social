@@ -5,3 +5,4 @@ One line per daily post. The daily task reads this before writing, so it doesn't
 | Date | Type | Topic | Headline | Image | GHL post id |
 |------|------|-------|----------|-------|-------------|
 | 2026-10-24 | image | Core hook | The guy across town isn't better than you. He just has more reviews. | posts/2026-10-24.jpg | 6adb9fa1f30478f2ac77fe58 |
+| 2026-10-25 | video | Core hook (Ad1) | Two contractors. Same town. Guess who gets the call? | videos/ReviiewCo_Ad1_Original_30s_VO.mp4 | 6adba1c804b8b3377c136ac5 (IG+FB reel), 6adba1d1202fd330d410b983 (YouTube Short) |
