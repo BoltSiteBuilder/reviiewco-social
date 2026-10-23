@@ -1,0 +1,15 @@
+# Videos
+
+Rob's own ad videos (1080×1920, H.264, 18–30 s). The nightly task posts the lowest-numbered unused one as an Instagram + Facebook Reel and a YouTube Short, every other day (alternating with image posts). Checked against reviiewco.com on Oct 23, 2026: pricing, guarantee (with the 300+ customer condition), phone 864-528-1909, and sample names labeled as samples are all current.
+
+| File | What it shows |
+|------|---------------|
+| ReviiewCo_Ad1_Original_30s_VO.mp4 | Two contractors in the same town; the one with more reviews gets the call. "The guy across town isn't better than you. He just has more reviews." Example review notifications, about 5 minutes of setup (add us to Google, send your list, approve messages), the guarantee, $297/month, no contract, 864-528-1909. |
+| ReviiewCo_Ad2_MoneyOnTheTable_20s_VO.mp4 | Every job you finish is a review you never collected. Hundreds of happy customers, zero stars to show for it. We go get them: texts, reminders, replies. Guarantee. "Stop leaving money on the table." $297/month, no contract. |
+| ReviiewCo_Ad3_WhatYourCustomerSees_25s_VO.mp4 | What the customer gets: a thank-you text right after the job (sample customer "Jessica"), one tap to rate, about ten seconds, a friendly reminder only if she hasn't posted. What you get: new-review and reply-posted notifications. "No app. No dashboard. No awkward asking." Guarantee, $297/month. |
+| ReviiewCo_Ad4_MissedCall_25s_VO.mp4 | You're up a ladder, the phone rings, missed call, they'll call the next guy. Missed-Call Text Back texts them first, automatically, included with ReviiewCo. Zero risk: no contract, cancel anytime, keep every review. "Never miss the next job." $297/month, 864-528-1909. |
+| ReviiewCo_Ad5_ThreeBids_18s_VO.mp4 | Illustrative: a homeowner gets three bids; she picks the one with the most reviews, not the cheapest. "Not the cheapest. The most trusted." "We get you the reviews. You win on trust." Guarantee, $297/month. |
+| ReviiewCo_Ad6_YourSoftwareAlreadyAsks_24s_VO.mp4 | Your job software already asks for reviews? Keep it. It only asks customers from here on. The hundreds you've already served — we ask them. Plus a reply to every review. Guarantee, $297/month. |
+| ReviiewCo_Ad7_TheAwkwardAsk_21s_VO.mp4 | The awkward "so, uh... would you maybe leave a review?" at the customer's door. Asking feels awkward, so it never happens. Put it on us: a text right after the job (sample). "Nobody on your team has to say a word." "We ask. They post. Your phone rings." Guarantee, $297/month. |
+| ReviiewCo_Ad8_HowItWorks_22s_VO.mp4 | "Five minutes from you. Everything else from us." Today: you hand it off (add us to your Google profile, send your list, Jumpstart begins). This week: past customers speak up, a little at a time. Ongoing: every finished job gets a request, every review a reply. Guarantee, $297/month. |
+| ReviiewCo_Ad9_FromTheFounder_23s_VO.mp4 | Rob Warfield, Founder, Greenville SC: "Our system gets you reviews. Reviews build trust. Trust drives calls." Real customers, real work: we never write, buy or filter reviews, and you approve every message first. Guarantee, 864-528-1909. |
