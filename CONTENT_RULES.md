@@ -1,5 +1,7 @@
 # ReviiewCo content rules
 
+**Read STRATEGY.md too.** Since Oct 28, 2026 every post leads with value (a tip, a free guide or the free report) and ends with a comment/DM keyword plus the $297 done-for-you offer. Posting runs from the GHL recycling queue (6 a day); the library lives in library/.
+
 Source of truth is the live site, https://reviiewco.com (re-read /, /pricing/ and /faq/ if anything here looks out of date). Last checked Oct 23, 2026.
 
 ## Voice
@@ -43,7 +45,7 @@ HVAC, plumbing, electrical, appliance repair, roofing, painting, landscaping, ho
 - Photos in assets/ are illustrative. Never present them as clients, reviewers or results.
 - Example texts must use placeholder names and be labeled as a sample (the site uses "Jessica" and "Upstate Comfort Air").
 - Don't name or criticize competitors.
-- Don't repeat a headline, or the same topic two days in a row, within 30 days (check posts/log.md).
+- Don't repeat a headline already in library/library.py or posts/log.md.
 - Hashtags: 6–10, end of caption, mix of #GreenvilleSC #UpstateSC #HomeServiceBusiness #ContractorMarketing #GoogleReviews #SmallBusiness plus trade tags that fit the post.
 
 ## Topic rotation (pick what hasn't run recently)
